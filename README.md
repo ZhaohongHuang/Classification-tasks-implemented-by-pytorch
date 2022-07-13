@@ -1,4 +1,4 @@
-# ZhaohongHuang-Classification-tasks-implemented-by-pytorch
+# Classification-tasks-implemented-by-pytorch
 
 猫狗大战：cat_and_dog.py
 
